@@ -1,0 +1,13 @@
+{
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "name": {
+        "highlight": "green"
+      }
+    }
+  },
+  "html.autoClosingTags": true,
+  "auto-close-tag.enableAutoCloseSelfClosingTag": true,
+  "highlight-matching-tag.highlightSelfClosing": false,
+  "javascript.autoClosingTags": true
+}
